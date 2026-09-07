@@ -2,5 +2,10 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-
 session_report.txt
+reports/
+logs/
+*.jsonl
+builds/
+crash_*
+crash/
